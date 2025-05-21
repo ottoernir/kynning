@@ -1,0 +1,2 @@
+# kynning
+Kynning raftakn
